@@ -16,10 +16,14 @@ Install the required dependencies listed in `requirements.txt`:
 
 pip install -r requirements.txt
 
-**## Running the project**
+```
+
+## Running the project
 
 To run this project, follow the below command:
 
 ```bash
 
 python bhavii.py
+
+```
